@@ -1,0 +1,14 @@
+INFO:     Started server process [22604]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:59562 - "POST /donations HTTP/1.1" 201 Created
+INFO:     127.0.0.1:59563 - "GET /donations HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51848 - "GET /donations HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51849 - "GET /donations HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51853 - "GET /donations HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59879 - "GET /donations HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59879 - "GET /donations HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62560 - "OPTIONS /donations HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62560 - "POST /donations HTTP/1.1" 201 Created
+INFO:     127.0.0.1:62560 - "GET /donations HTTP/1.1" 200 OK
